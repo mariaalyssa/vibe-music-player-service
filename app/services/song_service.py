@@ -1,0 +1,1 @@
+"""Song service placeholders."""

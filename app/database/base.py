@@ -1,0 +1,1 @@
+"""Base database model placeholder."""

@@ -1,0 +1,1 @@
+"""Song schemas placeholders."""
